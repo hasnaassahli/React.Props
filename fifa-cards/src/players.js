@@ -6,7 +6,7 @@ const players = [
       nationality: "France",
       jerseyNumber: 7,
       age: 24,
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kylian_Mbapp%C3%A9_2019.jpg/800px-Kylian_Mbapp%C3%A9_2019.jpg"
+      imageUrl: "https://i0.wp.com/ecolosport.fr/wp-content/uploads/2023/01/kylian-mbappe-gd48599c03_1920-e1674730328660.jpeg?fit=1920%2C1171&ssl=1"
     },
     {
       name: "Lionel Messi",
@@ -14,7 +14,7 @@ const players = [
       nationality: "Argentina",
       jerseyNumber: 10,
       age: 36,
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_20180626.jpg/800px-Lionel_Messi_20180626.jpg"
+      imageUrl: "https://wataniq.com/wp-content/uploads/2024/07/Lionel-Messi-Argentina-2022-FIFA-World-Cup_cropped.jpg"
     },
     {
       name: "Cristiano Ronaldo",
@@ -22,15 +22,15 @@ const players = [
       nationality: "Portugal",
       jerseyNumber: 7,
       age: 39,
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_2018.jpg/800px-Cristiano_Ronaldo_2018.jpg"
+      imageUrl: "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-02/Cristiano_Ronaldo_celebrate_Al-Nassr_Al-Wehda_2023.jpg?h=920929c4&itok=piB9zyV3"
     },
     {
-      name: "Kevin De Bruyne",
-      team: "Manchester City",
-      nationality: "Belgium",
-      jerseyNumber: 17,
+      name: "Neymar Jr.",
+      team: "Al Hilal",
+      nationality: "Brazil",
+      jerseyNumber: 11,
       age: 33,
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Bruyne_201807091.jpg/800px-De_Bruyne_201807091.jpg"
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg"
     }
   ];
   
